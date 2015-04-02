@@ -1,0 +1,17 @@
+{
+  "name": "hapi-plugin-lifecycle",
+  "version": "0.0.1",
+  "description": "A plugin loader by lifecycle hook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/lab/bin/lab"
+  },
+  "author": "Saul Maddox",
+  "license": "MIT",
+  "devDependencies": {
+    "code": "~1.4.0",
+    "hapi": "~8.4.0",
+    "hoek": "^2.12.0",
+    "lab": "~5.5.1"
+  }
+}
